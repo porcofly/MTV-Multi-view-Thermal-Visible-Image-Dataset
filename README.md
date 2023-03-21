@@ -21,7 +21,7 @@ MTV/
 │      ├── spares/             # model file of scene in COLMAP format
 │      ├── T_pose/             # Thermal pose files
 │      ├── xx_train.npz        # train file
-│      ├── xx_val.npz          # test file 
+│      ├── xx_val.npz          # validation file 
 │      └── xx_test.npz         # test file
 ├── park
 │   └── ...
