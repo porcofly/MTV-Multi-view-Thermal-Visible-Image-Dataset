@@ -28,6 +28,12 @@ MTV/
 └── villa
     └── ...
 ```
+The folder names in the raw data correspond to the scenarios as follows：
++ building：jinxia
++ park：bxz
++ villa：biehsu
++ contryroad：contryroad
++ racing：Racing
 
 
 ## Dataset usage
