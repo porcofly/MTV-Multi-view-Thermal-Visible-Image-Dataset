@@ -58,4 +58,5 @@ This dataset is created and maintained by Yuxiang Liu. If you have any questions
 |Date|Version|Description|
 |---|---|---|
 |March 21st, 2023|1.0|Release initial version|
+|October 6th, 2023|1.1|Upload files for Loftr training and Testing|
 
