@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>racing</name>
+	<gx:CascadingStyle kml:id="__managed_style_26F8A058AE2E92DF9890">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_19B2E10D542E92DF9890">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0EADBDBBA12E92DF9890">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_19B2E10D542E92DF9890</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_26F8A058AE2E92DF9890</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0077D239992E92DF9890">
+		<name>未命名的地标</name>
+		<LookAt>
+			<longitude>112.9846658713994</longitude>
+			<latitude>28.26949349301372</latitude>
+			<altitude>29.10233637139796</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>854.9041763083371</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EADBDBBA12E92DF9890</styleUrl>
+		<Point>
+			<coordinates>112.9814089287018,28.27108613965956,30.0179164887335</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06384F10E92E92E018D1">
+		<name>未命名的地标</name>
+		<LookAt>
+			<longitude>112.9846658713994</longitude>
+			<latitude>28.26949349301372</latitude>
+			<altitude>29.10233637139796</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>854.9041763083371</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EADBDBBA12E92DF9890</styleUrl>
+		<Point>
+			<coordinates>112.9853710070229,28.27130739284269,29.55561173897618</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05F0D9D9622E92E073B0">
+		<name>未命名的地标</name>
+		<LookAt>
+			<longitude>112.9842589216895</longitude>
+			<latitude>28.27019249370909</latitude>
+			<altitude>29.2678334067708</altitude>
+			<heading>359.9999999999993</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>854.7386882489084</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EADBDBBA12E92DF9890</styleUrl>
+		<Point>
+			<coordinates>112.9819574750454,28.26864918589755,30.27624353984955</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09CC8BEDDE2E92E08480">
+		<name>未命名的地标</name>
+		<LookAt>
+			<longitude>112.9842589216895</longitude>
+			<latitude>28.27019249370909</latitude>
+			<altitude>29.2678334067708</altitude>
+			<heading>359.9999999999993</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>854.7386882489084</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EADBDBBA12E92DF9890</styleUrl>
+		<Point>
+			<coordinates>112.9859821160501,28.2690836320653,29.57208728565878</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
