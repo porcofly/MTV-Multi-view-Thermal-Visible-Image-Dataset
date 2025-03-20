@@ -38,8 +38,12 @@ The folder names in the raw data correspond to the scenarios as follows：
 
 ## Dataset usage
 
-- Download method: Click [Baidu Cloud](https://pan.baidu.com/s/1ZxnhCgRYvC1tBHsVMHyovg) to download. Code:9863.
-- LoFTR checkpoint : Click [Baidu Cloud](https://pan.baidu.com/s/1Det7gKqpf4LzGmaQo5NsZg?pwd=4t7k) to download. Code:4t7k.
+- Download:
+    - [Baidu Cloud](https://pan.baidu.com/s/1ZxnhCgRYvC1tBHsVMHyovg) Code:9863.
+    - [OneDrive](https://1drv.ms/f/s!AuxIu5p3iyOxiG8jb-6lm982NJLC?e=cluaFM)
+- LoFTR checkpoint :
+    - [Baidu Cloud](https://pan.baidu.com/s/1Det7gKqpf4LzGmaQo5NsZg?pwd=4t7k). Code:4t7k.
+    - [OneDrive](https://1drv.ms/u/s!AuxIu5p3iyOxiHDdIwaRgGMtF7_9?e=v59NIs)
 - License agreement: This dataset follows [MIT License](https://opensource.org/license/mit/).
 - Citation format: If you use this dataset in your research or publication, please cite it as follows:
 ```
